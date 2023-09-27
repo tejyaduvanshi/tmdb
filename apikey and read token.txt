@@ -1,0 +1,3 @@
+api key = 58acad46009c6107276ed3d22e4ae462
+
+read token = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1OGFjYWQ0NjAwOWM2MTA3Mjc2ZWQzZDIyZTRhZTQ2MiIsInN1YiI6IjY0ZmQ0MDE1NjY0NjlhMDBjNjdiNzlmYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.b-GlrdKt4gStcnlR_zduMUNtdmr1u9VOgEKVajcSSys
