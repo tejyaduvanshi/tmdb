@@ -1,0 +1,16 @@
+.movie_list {
+    padding: 3rem 3rem 3rem 3rem;
+}
+
+.list_title {
+font-size: 40px;
+font-family: "gilroy";
+margin:  1rem;
+margin-bottom: 50px;
+}
+
+.list_cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
